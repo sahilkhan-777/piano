@@ -18,20 +18,22 @@ Play both major and minor chords directly from your browser, either by clicking 
 - Built using jQuery for event handling.
 
 ## 🎼 Controls
-** Key	Sound **
-- C     C major
-- 1	    C minor
-- D 	D major
-- 2 	D minor
-- E 	E major
-- 3 	E minor
-- F 	F major
-- 4 	F minor
-- G 	G major
-- 5 	G minor
-- A 	A major
-- 6 	A minor
-- B 	B major
+| Key |  Sound  |
+|-----|---------|
+|  C  | C major |
+|  1  |	C minor |
+|  D  | D major |
+|  2  |	D minor |
+|  E  |	E major |
+|  3  |	E minor |
+|  F  |	F major |
+|  4  |	F minor |
+|  G  |	G major |
+|  5  |	G minor |
+|  A  |	A major |
+|  6  |	A minor |
+|  B  |	B major |
+|-----|---------|
 
 ## 🚀 How to Use
 
@@ -44,7 +46,7 @@ Play both major and minor chords directly from your browser, either by clicking 
 - Click on the keys or press the corresponding keyboard keys to play.
 
 ## Preview
-[!Piano Screenshot](./images/screenshot.png)
+![Piano Screenshot](./images/screenshot.png)
 
 ## 🎶 Example Chord Progression
 
