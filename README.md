@@ -33,13 +33,12 @@ Play both major and minor chords directly from your browser, either by clicking 
 |  A  |	A major |
 |  6  |	A minor |
 |  B  |	B major |
-|-----|---------|
 
 ## 🚀 How to Use
 
 - Clone or download this repository.
 
-- Make sure all audio files are inside the /audio folder.
+- Make sure all audio files are inside the /sounds folder.
 
 - Open index.html in your browser.
 
