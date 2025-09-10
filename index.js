@@ -64,9 +64,9 @@ function playSound(name) {
 
 
 function byMouseClick() {
-    $(this).fadeIn(100).fadeOut(100).fadeIn(100);
     var buttonInnerHTML = $(this).html();
     playSound(buttonInnerHTML);
+    $(this).fadeIn(100).fadeOut(100).fadeIn(100);
 }
 
 
